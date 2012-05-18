@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Extension>
+
+	<name>message</name>
+	<version>0.1</version>
+	<title>用户好友</title>
+	
+ 
+	<class>org.opencomb.message.Message</class>
+	<package folder="/class" namespace="org.opencomb.message" />
+	
+	<template folder="/template" />
+</Extension>
